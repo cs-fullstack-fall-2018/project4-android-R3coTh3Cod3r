@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Andriod_Project_4</string>
+    <string name="nix_cookbook">Cook_book</string>
+    <string-array name="nix_cookbook">
+        <item>BreakFast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
